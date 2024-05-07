@@ -1,21 +1,21 @@
-Número,Nombre de la Receta,Ingrediente Principal,Ingrediente Secundario
-1,Ensalada César,Lechuga,Pollo
+Id,Nombre de la Receta,Ingrediente Principal,Ingrediente Secundario
+1,Ensalada Cesar,Lechuga,Pollo
 2,Pizza Margarita,Harina de trigo,Tomate
 3,Sushi,Arroz,Alga nori
 4,Pasta Alfredo,Pasta,Crema de leche
-5,Tacos de Carne Asada,Carne de res,Tortillas de maíz
-6,Lasaña,Berengena,Carne molida
+5,Tacos de Carne Asada,Carne de res,Tortillas de maiz
+6,Lasa�a,Berengena,Carne molida
 7,Hamburguesa,Carne molida, Pan de hamburguesa
 8,Paella,Arroz,Mariscos
 9,Spaghetti Bolognese,Spaghetti,Salsa de tomate
-10,Sándwich de Jamón y Queso,Jamón,Queso
+10,Sandwich de Jamon y Queso,Jamon,Queso
 11,Pollo a la Parrilla,Pollo,Salsa BBQ
 12,Risotto,Arroz,Caldo de pollo
 13,Tarta de Manzana,Manzanas,Harina
-14,Ceviche,Pescado limón
-15,Tortilla Española,Huevos,Patatas
+14,Ceviche,Pescado limon
+15,Tortilla Espa�ola,Huevos,Patatas
 16,Sopa de Tomate,Tomate,Cebolla
-17,Pescado al Horno,Pescado, Limón
+17,Pescado al Horno,Pescado, Limon
 18,Arroz con Pollo,Arroz,Pollo
 19,Gazpacho,Tomate, Pepino
 20,Curry de Verduras,Verduras,Leche de coco
